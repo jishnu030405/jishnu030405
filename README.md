@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jishnujit Mete 👋
 
-<!--
-**jishnu030405/jishnu030405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IIT Student
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux Enthusiast
+
+🌱 Currently Learning Java, Django, and Backend Development
+
+## Skills
+- Python
+- MySQL
+- HTML/CSS
+- Linux
+- Git & GitHub
+- Java
+- Javascript
+
+## Projects
+### Placement Portal
+A web-based placement management system .
+
+## Current Goals
+- Strengthen DSA
+- Build AI-powered applications
+- Contribute to Open Source
+- Strengthen linux shell commands
+
+## Contact
+📧 25f1001012@ds.study.iitm.ac.in
