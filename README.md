@@ -1,12 +1,12 @@
 # Hi, I'm Jishnujit Mete 👋
 
-🎓 IIT Student
+🎓 2nd Year IIT Student
 
 💻 Python Developer
 
 🐧 Linux Enthusiast
 
-🌱 Currently Learning Java, Django, and Backend Development
+🌱 Currently Learning Java, Linux and Frontend Development
 
 ## Skills
 - Python
