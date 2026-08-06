@@ -21,7 +21,7 @@
 ### Placement Portal
 A web-based placement management system .
 ### Currency Converter
-A web-based Currency Converter for more than 150+ Countries.
+A web-based Currency Converter that supports 150+ currencies with real-time exchange rates.
 
 ## Current Goals
 - Strengthen DSA
