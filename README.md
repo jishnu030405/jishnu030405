@@ -20,6 +20,8 @@
 ## Projects
 ### Placement Portal
 A web-based placement management system .
+### Currency Converter
+A web-based Currency Converter for more than 150+ Countries.
 
 ## Current Goals
 - Strengthen DSA
